@@ -8,3 +8,4 @@ This project will provide a lots of insights in one dashboard for sure with anal
 
 ---> Filters - it brings combinations of all charts and KPI's by appending it in individual manner such as car company, body style, colour, or engine transmission, etc.
 
+![Car Sales Dasboard](https://github.com/user-attachments/assets/682123d1-7564-4b46-bd5e-0d01b17393d0)
